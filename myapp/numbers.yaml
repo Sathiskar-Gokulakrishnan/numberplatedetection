@@ -1,0 +1,5 @@
+path : /Users/animchnlap276/number_plate_detection/datasets
+train: numbers/images/train
+val : numbers/images/train
+names :
+  0 : numbers
